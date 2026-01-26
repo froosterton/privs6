@@ -1,10 +1,10 @@
 {
-  "name": "uaid-scraper33",
+  "name": "uaid-scraper66",
   "version": "1.0.0",
   "description": "Rolimons UAID scraper - finds previous owners of deleted/hidden users",
-  "main": "scrapper33.js",
+  "main": "scrapper66.js",
   "scripts": {
-    "start": "node scrapper33.js"
+    "start": "node scrapper66.js"
   },
   "dependencies": {
     "axios": "^1.6.0",
